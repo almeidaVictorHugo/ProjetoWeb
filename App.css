@@ -1,33 +1,9 @@
-body{
-  background-color: #9ab0dd;
-}
-
-.cadastro{
-  display: none;
-}
-
-.App{
+.App {
   text-align: center;
-  float: left;
-  margin-left: 630px;
-}
-
-button{
-  border-width: 0.1px;
-  border-radius: 10px; 
-  padding: 10px 15px;
-}
-
-input{
-  border-width: 0.1px;
-  border-radius: 10px;
-  padding: 5px;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
-  pointer-events: none;
 }
 
 .App-header {
@@ -42,14 +18,5 @@ input{
 }
 
 .App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  color: #09d3ac;
 }
